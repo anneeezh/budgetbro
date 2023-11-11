@@ -1,20 +1,20 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/anneeezh
   class: icon-github
   title: Code und mehr...
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/sdzhaj
   class: icon-youtube
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/anneeezh
   class: icon-twitter
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
 - name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
+  url: http://www.mixcloud.com/
   class: icon-cloud
   title: "Mixe, was sonst?"
 
